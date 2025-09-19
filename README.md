@@ -14,19 +14,6 @@ O objetivo é propor um exercício aplicado de **desenvolvimento web com Python*
 4. Complete as partes sinalizadas no código com **[TAREFA]**.
 5. Entregue sua solução conforme as orientações recebidas em aula.
 
----
-
-## 📂 Estrutura do Projeto
-
-avaliacao_flask_sqlite/
-│
-├─ app.py              # Código principal da aplicação (contém [TAREFA])
-├─ requirements.txt    # Dependências
-└─ templates/          # Páginas HTML (Jinja2)
-   ├─ base.html
-   ├─ register.html
-   ├─ login.html
-   └─ profile.html
 
 ---
 
