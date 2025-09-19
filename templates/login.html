@@ -1,0 +1,26 @@
+{% extends "base.html" %}
+{% block title %}Login - Avaliação Flask{% endblock %}
+{% block content %}
+<div class="row justify-content-center">
+  <div class="col-md-5">
+    <div class="card shadow-sm">
+      <div class="card-body">
+        <h1 class="h4 mb-3">Acesso</h1>
+        <form method="POST" action="{{ url_for('login') }}">
+          <div class="mb-3">
+            <label class="form-label">E-mail</label>
+            <input class="form-control" type="email" name="email" required>
+          </div>
+          <div class="mb-3">
+            <label class="form-label">Senha</label>
+            <input class="form-control" type="password" name="senha" required>
+          </div>
+          <button class="btn btn-success w-100" type="submit">Entrar</button>
+        </form>
+        <hr>
+        <p class="mb-0">Primeiro acesso? <a href="{{ url_for('registrar') }}">Cadastre-se</a>.</p>
+      </div>
+    </div>
+  </div>
+</div>
+{% endblock %}
