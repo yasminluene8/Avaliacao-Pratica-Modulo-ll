@@ -15,14 +15,14 @@ Você receberá o **diagrama** da tabela 'users' e deverá **implementar a cria�
 
 > Use **apenas uma** das opções para concluir esta parte.
 
----
+
 
 # Parte 2 – Complete o Código no Flask
 
 Nesta parte, você encontrará **trechos de código incompletos** no arquivo `app.py`.  
 Sua tarefa é completar os pontos marcados com **[TAREFA]**.
 
----
+
 
 ## 1. Coleta dos Dados no Cadastro
 
