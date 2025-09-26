@@ -11,8 +11,7 @@ O objetivo é propor um exercício aplicado de **desenvolvimento web com Python*
 1. Faça o **fork** ou **clone** deste repositório.
 2. Instale as dependências necessárias a partir do arquivo `requirements.txt`.
 3. Execute o projeto localmente para realizar os testes.
-4. Complete as partes sinalizadas no código com **[TAREFA]**.
-5. Entregue sua solução conforme as orientações recebidas em aula.
+4. Entregue sua solução conforme as orientações recebidas em aula.
 
 
 ---
