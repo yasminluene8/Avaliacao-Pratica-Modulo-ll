@@ -1,6 +1,6 @@
 # 📘 Avaliação – Desenvolvimento com Python
 
-Este trabalho é dividido em **2 partes**:
+Essa avalição é dividida em **2 partes**:
 
 1. **API REST Calculadora com Flask**  
 2. **CRUD em Banco de Dados SQLite**
